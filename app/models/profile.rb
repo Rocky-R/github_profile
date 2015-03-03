@@ -1,6 +1,6 @@
 class Profile
   def initialize
-    @full_json = HTTParty.get("https://api.github.com/users/Rocky-R/repos",
+    @full_json = HTTParty.get("https://api.github.com/users/Rocky-R/repos?sort=updated",
      :headers => {
               "Authorization" => "token #{ENV['GITHUB_TOKEN']}",
               "User-Agent" => ENV["GITHUB_USERNAME"]})
