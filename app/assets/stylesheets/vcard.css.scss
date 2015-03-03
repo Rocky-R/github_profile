@@ -1,0 +1,633 @@
+#DIV_1D {
+    box-sizing: border-box;
+    color: rgb(51, 51, 51);
+    float: left;
+    height: 535px;
+    overflow-wrap: break-word;
+    width: 250px;
+    word-wrap: break-word;
+    perspective-origin: 125px 267.5px;
+    transform-origin: 125px 267.5px;
+    border: 0px none rgb(51, 51, 51);
+    font: normal normal normal normal 13px/18.2000007629395px Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+    outline: rgb(51, 51, 51) none 0px;
+    padding: 0px 10px;
+}/*#DIV_1D*/
+
+#A_2D {
+    box-sizing: border-box;
+    color: rgb(65, 131, 196);
+    display: block;
+    height: 230px;
+    overflow-wrap: break-word;
+    position: relative;
+    text-decoration: none;
+    width: 230px;
+    word-wrap: break-word;
+    perspective-origin: 115px 115px;
+    transform-origin: 115px 115px;
+    border: 0px none rgb(65, 131, 196);
+    font: normal normal normal normal 13px/18.2000007629395px Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+    outline: rgb(65, 131, 196) none 0px;
+}/*#A_2D*/
+
+#A_2D:after {
+    color: rgb(255, 255, 255);
+    display: none;
+    height: 230px;
+    overflow-wrap: break-word;
+    pointer-events: none;
+    position: absolute;
+    right: 115px;
+    text-align: center;
+    top: 708px;
+    white-space: pre;
+    width: 230px;
+    word-wrap: break-word;
+    z-index: 1000000;
+    align-self: stretch;
+    perspective-origin: 115px 115px;
+    transform-origin: 115px 115px;
+    content: 'Change your avatar';
+    background: rgba(0, 0, 0, 0.8) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(255, 255, 255);
+    border-radius: 3px 3px 3px 3px;
+    font: normal normal normal normal 11px/16.5px Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+    margin: 5px 0px 0px;
+    outline: rgb(255, 255, 255) none 0px;
+    padding: 5px 8px;
+}/*#A_2D:after*/
+
+#A_2D:before {
+    bottom: -5px;
+    color: rgba(0, 0, 0, 0.8);
+    display: none;
+    height: 230px;
+    overflow-wrap: break-word;
+    pointer-events: none;
+    position: absolute;
+    right: 115px;
+    width: 230px;
+    word-wrap: break-word;
+    z-index: 1000001;
+    align-self: stretch;
+    perspective-origin: 115px 115px;
+    transform-origin: 115px 115px;
+    content: '';
+    border-top: 5px solid rgba(0, 0, 0, 0);
+    border-right: 5px solid rgba(0, 0, 0, 0);
+    border-bottom: 5px solid rgba(0, 0, 0, 0.8);
+    border-left: 5px solid rgba(0, 0, 0, 0);
+    font: normal normal normal normal 13px/18.2000007629395px Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+    margin: 0px -5px 0px 0px;
+    outline: rgba(0, 0, 0, 0.8) none 0px;
+}/*#A_2D:before*/
+
+#IMG_3 {
+    box-sizing: border-box;
+    color: rgb(65, 131, 196);
+    display: inline-block;
+    height: 230px;
+    overflow-wrap: break-word;
+    vertical-align: middle;
+    width: 230px;
+    word-wrap: break-word;
+    perspective-origin: 115px 115px;
+    transform-origin: 115px 115px;
+    border: 0px none rgb(65, 131, 196);
+    border-radius: 6px 6px 6px 6px;
+    font: normal normal normal normal 13px/13px Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+    outline: rgb(65, 131, 196) none 0px;
+    overflow: hidden;
+}/*#IMG_3*/
+
+#H1_4 {
+    box-sizing: border-box;
+    color: rgb(51, 51, 51);
+    height: 54px;
+    overflow-wrap: break-word;
+    width: 230px;
+    word-wrap: break-word;
+    perspective-origin: 115px 27px;
+    transform-origin: 115px 27px;
+    border: 0px none rgb(51, 51, 51);
+    font: normal normal bold normal 30px/30px Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+    margin: 5px 0px 15px;
+    outline: rgb(51, 51, 51) none 0px;
+}/*#H1_4*/
+
+#SPAN_5 {
+    box-sizing: border-box;
+    color: rgb(51, 51, 51);
+    display: block;
+    height: 30px;
+    overflow-wrap: break-word;
+    text-overflow: ellipsis;
+    width: 230px;
+    word-wrap: break-word;
+    perspective-origin: 115px 15px;
+    transform-origin: 115px 15px;
+    border: 0px none rgb(51, 51, 51);
+    font: normal normal bold normal 26px/30px Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+    outline: rgb(51, 51, 51) none 0px;
+    overflow: hidden;
+}/*#SPAN_5*/
+
+#SPAN_6D {
+    box-sizing: border-box;
+    color: rgb(102, 102, 102);
+    display: block;
+    height: 24px;
+    overflow-wrap: break-word;
+    text-overflow: ellipsis;
+    width: 230px;
+    word-wrap: break-word;
+    perspective-origin: 115px 12px;
+    transform-origin: 115px 12px;
+    border: 0px none rgb(102, 102, 102);
+    font: normal normal 300 normal 20px/24px Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+    outline: rgb(102, 102, 102) none 0px;
+    overflow: hidden;
+}/*#SPAN_6D*/
+
+#UL_7 {
+    box-sizing: border-box;
+    color: rgb(51, 51, 51);
+    height: 54px;
+    overflow-wrap: break-word;
+    width: 230px;
+    word-wrap: break-word;
+    perspective-origin: 115px 27px;
+    transform-origin: 115px 27px;
+    border-top: 1px solid rgb(238, 238, 238);
+    border-right: 0px none rgb(51, 51, 51);
+    border-bottom: 0px none rgb(51, 51, 51);
+    border-left: 0px none rgb(51, 51, 51);
+    font: normal normal normal normal 13px/18.2000007629395px Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+    list-style: none outside none;
+    margin: 0px;
+    outline: rgb(51, 51, 51) none 0px;
+    padding: 15px 0px;
+}/*#UL_7*/
+
+#LI_8 {
+    box-sizing: border-box;
+    color: rgb(51, 51, 51);
+    height: 23px;
+    overflow-wrap: break-word;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 230px;
+    word-wrap: break-word;
+    perspective-origin: 115px 11.5px;
+    transform-origin: 115px 11.5px;
+    border: 0px none rgb(51, 51, 51);
+    font: normal normal normal normal 14px/19.6000003814697px Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+    list-style: none outside none;
+    outline: rgb(51, 51, 51) none 0px;
+    overflow: auto;
+    padding: 2px 0px 2px 24px;
+}/*#LI_8*/
+
+#SPAN_9 {
+    box-sizing: border-box;
+    color: rgb(204, 204, 204);
+    display: block;
+    float: left;
+    height: 16px;
+    overflow-wrap: break-word;
+    text-align: center;
+    white-space: nowrap;
+    width: 16px;
+    word-wrap: break-word;
+    perspective-origin: 8px 8px;
+    transform-origin: 8px 8px;
+    border: 0px none rgb(204, 204, 204);
+    font: normal normal normal normal 16px/16px octicons;
+    list-style: none outside none;
+    margin: 0px 0px 0px -24px;
+    outline: rgb(204, 204, 204) none 0px;
+}/*#SPAN_9*/
+
+#SPAN_9:before {
+    color: rgb(204, 204, 204);
+    overflow-wrap: break-word;
+    text-align: center;
+    white-space: nowrap;
+    word-wrap: break-word;
+    content: '';
+    border: 0px none rgb(204, 204, 204);
+    font: normal normal normal normal 16px/16px octicons;
+    list-style: none outside none;
+    outline: rgb(204, 204, 204) none 0px;
+}/*#SPAN_9:before*/
+
+#SPAN_10, #TIME_11 {
+    box-sizing: border-box;
+    color: rgb(51, 51, 51);
+    overflow-wrap: break-word;
+    text-align: left;
+    white-space: nowrap;
+    word-wrap: break-word;
+    border: 0px none rgb(51, 51, 51);
+    font: normal normal normal normal 14px/19.6000003814697px Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+    list-style: none outside none;
+    outline: rgb(51, 51, 51) none 0px;
+}/*#SPAN_10, #TIME_11*/
+
+#DIV_12 {
+    box-sizing: border-box;
+    color: rgb(51, 51, 51);
+    height: 75px;
+    overflow-wrap: break-word;
+    text-align: center;
+    width: 230px;
+    word-wrap: break-word;
+    perspective-origin: 115px 37.5px;
+    transform-origin: 115px 37.5px;
+    border-top: 1px solid rgb(238, 238, 238);
+    border-right: 0px none rgb(51, 51, 51);
+    border-bottom: 1px solid rgb(238, 238, 238);
+    border-left: 0px none rgb(51, 51, 51);
+    font: normal normal normal normal 13px/18.2000007629395px Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+    margin: 0px 0px 10px;
+    outline: rgb(51, 51, 51) none 0px;
+    padding: 15px 0px;
+}/*#DIV_12*/
+
+#DIV_12:after {
+    clear: both;
+    color: rgb(51, 51, 51);
+    display: table;
+    overflow-wrap: break-word;
+    text-align: center;
+    width: 1px;
+    word-wrap: break-word;
+    perspective-origin: 0.5px 0px;
+    transform-origin: 0.5px 0px;
+    content: '';
+    border: 0px none rgb(51, 51, 51);
+    font: normal normal normal normal 13px/18.2000007629395px Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+    outline: rgb(51, 51, 51) none 0px;
+}/*#DIV_12:after*/
+
+#DIV_12:before {
+    color: rgb(51, 51, 51);
+    display: table;
+    overflow-wrap: break-word;
+    text-align: center;
+    width: 1px;
+    word-wrap: break-word;
+    perspective-origin: 0.5px 0px;
+    transform-origin: 0.5px 0px;
+    content: '';
+    border: 0px none rgb(51, 51, 51);
+    font: normal normal normal normal 13px/18.2000007629395px Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+    outline: rgb(51, 51, 51) none 0px;
+}/*#DIV_12:before*/
+
+#A_13D, #A_16D, #A_19D {
+    box-sizing: border-box;
+    color: rgb(65, 131, 196);
+    display: block;
+    float: left;
+    height: 43px;
+    overflow-wrap: break-word;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    width: 76.65625px;
+    word-wrap: break-word;
+    perspective-origin: 38.328125px 21.5px;
+    transform-origin: 38.328125px 21.5px;
+    border: 0px none rgb(65, 131, 196);
+    font: normal normal normal normal 11px/15.3999996185303px Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+    outline: rgb(65, 131, 196) none 0px;
+}/*#A_13D, #A_16D, #A_19D*/
+
+#STRONG_14, #STRONG_17, #STRONG_20 {
+    box-sizing: border-box;
+    color: rgb(65, 131, 196);
+    display: block;
+    height: 28px;
+    overflow-wrap: break-word;
+    text-align: center;
+    text-transform: capitalize;
+    width: 76.65625px;
+    word-wrap: break-word;
+    perspective-origin: 38.328125px 14px;
+    transform-origin: 38.328125px 14px;
+    border: 0px none rgb(65, 131, 196);
+    font: normal normal bold normal 28px/28px Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+    outline: rgb(65, 131, 196) none 0px;
+}/*#STRONG_14, #STRONG_17, #STRONG_20*/
+
+#SPAN_15, #SPAN_18 {
+    box-sizing: border-box;
+    color: rgb(153, 153, 153);
+    overflow-wrap: break-word;
+    text-align: center;
+    text-transform: capitalize;
+    word-wrap: break-word;
+    border: 0px none rgb(153, 153, 153);
+    font: normal normal normal normal 11px/15.3999996185303px Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+    outline: rgb(153, 153, 153) none 0px;
+}/*#SPAN_15, #SPAN_18*/
+
+#SPAN_21 {
+    box-sizing: border-box;
+    color: rgb(153, 153, 153);
+    overflow-wrap: break-word;
+    text-align: center;
+    text-transform: capitalize;
+    word-wrap: break-word;
+    border: 0px none rgb(153, 153, 153);
+    font: normal normal normal normal 11px/15.3999996185303px Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+    outline: rgb(153, 153, 153) none 0px;
+}/*#SPAN_21*/
+
+#DIV_22 {
+    box-sizing: border-box;
+    color: rgb(51, 51, 51);
+    height: 92px;
+    overflow-wrap: break-word;
+    width: 230px;
+    word-wrap: break-word;
+    perspective-origin: 115px 46px;
+    transform-origin: 115px 46px;
+    border: 0px none rgb(51, 51, 51);
+    font: normal normal normal normal 13px/18.2000007629395px Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+    outline: rgb(51, 51, 51) none 0px;
+}/*#DIV_22*/
+
+#DIV_22:after {
+    clear: both;
+    color: rgb(51, 51, 51);
+    display: table;
+    overflow-wrap: break-word;
+    width: 1px;
+    word-wrap: break-word;
+    perspective-origin: 0.5px 0px;
+    transform-origin: 0.5px 0px;
+    content: '';
+    border: 0px none rgb(51, 51, 51);
+    font: normal normal normal normal 13px/18.2000007629395px Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+    outline: rgb(51, 51, 51) none 0px;
+}/*#DIV_22:after*/
+
+#DIV_22:before {
+    color: rgb(51, 51, 51);
+    display: table;
+    overflow-wrap: break-word;
+    width: 1px;
+    word-wrap: break-word;
+    perspective-origin: 0.5px 0px;
+    transform-origin: 0.5px 0px;
+    content: '';
+    border: 0px none rgb(51, 51, 51);
+    font: normal normal normal normal 13px/18.2000007629395px Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+    outline: rgb(51, 51, 51) none 0px;
+}/*#DIV_22:before*/
+
+#H3_23 {
+    box-sizing: border-box;
+    color: rgb(51, 51, 51);
+    height: 17px;
+    overflow-wrap: break-word;
+    width: 230px;
+    word-wrap: break-word;
+    perspective-origin: 115px 8.5px;
+    transform-origin: 115px 8.5px;
+    border: 0px none rgb(51, 51, 51);
+    font: normal normal bold normal 16px/17.6000003814697px Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+    margin: 15px 0px;
+    outline: rgb(51, 51, 51) none 0px;
+}/*#H3_23*/
+
+#A_24 {
+    box-sizing: border-box;
+    color: rgb(65, 131, 196);
+    display: inline-block;
+    height: 42px;
+    overflow-wrap: break-word;
+    position: relative;
+    text-decoration: none;
+    width: 42px;
+    word-wrap: break-word;
+    perspective-origin: 21px 21px;
+    transform-origin: 21px 21px;
+    border: 0px none rgb(65, 131, 196);
+    font: normal normal normal normal 13px/18.2000007629395px Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+    margin: 0px 0px 3px;
+    outline: rgb(65, 131, 196) none 0px;
+}/*#A_24*/
+
+#A_24:after {
+    bottom: 708px;
+    color: rgb(255, 255, 255);
+    display: none;
+    height: 42px;
+    overflow-wrap: break-word;
+    pointer-events: none;
+    position: absolute;
+    right: 115px;
+    text-align: center;
+    white-space: pre;
+    width: 42px;
+    word-wrap: break-word;
+    z-index: 1000000;
+    align-self: stretch;
+    perspective-origin: 21px 21px;
+    transform-origin: 21px 21px;
+    content: 'ICanHasScience';
+    background: rgba(0, 0, 0, 0.8) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(255, 255, 255);
+    border-radius: 3px 3px 3px 3px;
+    font: normal normal normal normal 11px/16.5px Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+    margin: 0px 0px 5px;
+    outline: rgb(255, 255, 255) none 0px;
+    padding: 5px 8px;
+}/*#A_24:after*/
+
+#A_24:before {
+    color: rgba(0, 0, 0, 0.8);
+    display: none;
+    height: 42px;
+    overflow-wrap: break-word;
+    pointer-events: none;
+    position: absolute;
+    right: 115px;
+    top: -5px;
+    width: 42px;
+    word-wrap: break-word;
+    z-index: 1000001;
+    align-self: stretch;
+    perspective-origin: 21px 21px;
+    transform-origin: 21px 21px;
+    content: '';
+    border-top: 5px solid rgba(0, 0, 0, 0.8);
+    border-right: 5px solid rgba(0, 0, 0, 0);
+    border-bottom: 5px solid rgba(0, 0, 0, 0);
+    border-left: 5px solid rgba(0, 0, 0, 0);
+    font: normal normal normal normal 13px/18.2000007629395px Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+    margin: 0px -5px 0px 0px;
+    outline: rgba(0, 0, 0, 0.8) none 0px;
+}/*#A_24:before*/
+
+#IMG_25, #IMG_27, #IMG_29 {
+    box-sizing: border-box;
+    color: rgb(65, 131, 196);
+    display: inline-block;
+    height: 42px;
+    overflow-wrap: break-word;
+    vertical-align: middle;
+    width: 42px;
+    word-wrap: break-word;
+    perspective-origin: 21px 21px;
+    transform-origin: 21px 21px;
+    border: 0px none rgb(65, 131, 196);
+    border-radius: 3px 3px 3px 3px;
+    font: normal normal normal normal 13px/13px Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+    outline: rgb(65, 131, 196) none 0px;
+    overflow: hidden;
+}/*#IMG_25, #IMG_27, #IMG_29*/
+
+#A_26 {
+    box-sizing: border-box;
+    color: rgb(65, 131, 196);
+    display: inline-block;
+    height: 42px;
+    overflow-wrap: break-word;
+    position: relative;
+    text-decoration: none;
+    width: 42px;
+    word-wrap: break-word;
+    perspective-origin: 21px 21px;
+    transform-origin: 21px 21px;
+    border: 0px none rgb(65, 131, 196);
+    font: normal normal normal normal 13px/18.2000007629395px Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+    margin: 0px 0px 3px;
+    outline: rgb(65, 131, 196) none 0px;
+}/*#A_26*/
+
+#A_26:after {
+    bottom: 708px;
+    color: rgb(255, 255, 255);
+    display: none;
+    height: 42px;
+    overflow-wrap: break-word;
+    pointer-events: none;
+    position: absolute;
+    right: 115px;
+    text-align: center;
+    white-space: pre;
+    width: 42px;
+    word-wrap: break-word;
+    z-index: 1000000;
+    align-self: stretch;
+    perspective-origin: 21px 21px;
+    transform-origin: 21px 21px;
+    content: 'SurveyGoat';
+    background: rgba(0, 0, 0, 0.8) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(255, 255, 255);
+    border-radius: 3px 3px 3px 3px;
+    font: normal normal normal normal 11px/16.5px Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+    margin: 0px 0px 5px;
+    outline: rgb(255, 255, 255) none 0px;
+    padding: 5px 8px;
+}/*#A_26:after*/
+
+#A_26:before {
+    color: rgba(0, 0, 0, 0.8);
+    display: none;
+    height: 42px;
+    overflow-wrap: break-word;
+    pointer-events: none;
+    position: absolute;
+    right: 115px;
+    top: -5px;
+    width: 42px;
+    word-wrap: break-word;
+    z-index: 1000001;
+    align-self: stretch;
+    perspective-origin: 21px 21px;
+    transform-origin: 21px 21px;
+    content: '';
+    border-top: 5px solid rgba(0, 0, 0, 0.8);
+    border-right: 5px solid rgba(0, 0, 0, 0);
+    border-bottom: 5px solid rgba(0, 0, 0, 0);
+    border-left: 5px solid rgba(0, 0, 0, 0);
+    font: normal normal normal normal 13px/18.2000007629395px Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+    margin: 0px -5px 0px 0px;
+    outline: rgba(0, 0, 0, 0.8) none 0px;
+}/*#A_26:before*/
+
+#A_28 {
+    box-sizing: border-box;
+    color: rgb(65, 131, 196);
+    display: inline-block;
+    height: 42px;
+    overflow-wrap: break-word;
+    position: relative;
+    text-decoration: none;
+    width: 42px;
+    word-wrap: break-word;
+    perspective-origin: 21px 21px;
+    transform-origin: 21px 21px;
+    border: 0px none rgb(65, 131, 196);
+    font: normal normal normal normal 13px/18.2000007629395px Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+    margin: 0px 0px 3px;
+    outline: rgb(65, 131, 196) none 0px;
+}/*#A_28*/
+
+#A_28:after {
+    bottom: 708px;
+    color: rgb(255, 255, 255);
+    display: none;
+    height: 42px;
+    overflow-wrap: break-word;
+    pointer-events: none;
+    position: absolute;
+    right: 115px;
+    text-align: center;
+    white-space: pre;
+    width: 42px;
+    word-wrap: break-word;
+    z-index: 1000000;
+    align-self: stretch;
+    perspective-origin: 21px 21px;
+    transform-origin: 21px 21px;
+    content: 'Ash-Rocket';
+    background: rgba(0, 0, 0, 0.8) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(255, 255, 255);
+    border-radius: 3px 3px 3px 3px;
+    font: normal normal normal normal 11px/16.5px Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+    margin: 0px 0px 5px;
+    outline: rgb(255, 255, 255) none 0px;
+    padding: 5px 8px;
+}/*#A_28:after*/
+
+#A_28:before {
+    color: rgba(0, 0, 0, 0.8);
+    display: none;
+    height: 42px;
+    overflow-wrap: break-word;
+    pointer-events: none;
+    position: absolute;
+    right: 115px;
+    top: -5px;
+    width: 42px;
+    word-wrap: break-word;
+    z-index: 1000001;
+    align-self: stretch;
+    perspective-origin: 21px 21px;
+    transform-origin: 21px 21px;
+    content: '';
+    border-top: 5px solid rgba(0, 0, 0, 0.8);
+    border-right: 5px solid rgba(0, 0, 0, 0);
+    border-bottom: 5px solid rgba(0, 0, 0, 0);
+    border-left: 5px solid rgba(0, 0, 0, 0);
+    font: normal normal normal normal 13px/18.2000007629395px Helvetica, arial, freesans, clean, sans-serif, 'Segoe UI Emoji', 'Segoe UI Symbol';
+    margin: 0px -5px 0px 0px;
+    outline: rgba(0, 0, 0, 0.8) none 0px;
+}/*#A_28:before*/
