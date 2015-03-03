@@ -1,4 +1,21 @@
-<h1>Repositories</h1>
 <% @repo_list.each do |repo| %>
-<div><%= repo['name'] %></div>
+<li id="LI_1">
+	<div id="DIV_2">
+		Ruby <a href="/Rocky-R/github_profile/stargazers" id="A_3">
+      <span id="SPAN_4"></span> 0</a> <a href="/Rocky-R/github_profile/network" id="A_5"><span id="SPAN_6"></span> 0</a>
+	</div>
+	<h3 id="H3_7">
+		 <a href="#"id="A_8"><%= repo['name'] %></a>
+	</h3>
+	<p id="P_9">
+		Updated
+		<time id="TIME_10">
+      <%= repo['updated_at'] %>
+		</time>
+	</p>
+	<div id="DIV_11">
+		<svg id="svg_12">
+		</svg>
+	</div>
+</li>
 <% end %>
